@@ -33,6 +33,8 @@ Supported platforms:
 2. Log in using your account credentials
 
 ![App Login](https://github.com/user-attachments/assets/43872fd2-5baf-4d42-85b4-f9d95bbd64b2)
+<img width="482" height="688" alt="Screenshot 2025-07-30 124722" src="https://github.com/user-attachments/assets/c49622f3-f404-4180-8dc4-d87f7a521ed5" />
+
 
 ## 4. Tracking & Reporting
 
