@@ -1,15 +1,6 @@
 # Hubstaff Installation & Setup Guide
 
-![Hubstaff Logo](https://assets-global.website-files.com/5f4ec532319829593e8e4e64/5f55620b7b806770e6becea2_Hubstaff-logo.svg)
-
 A step-by-step guide to installing Hubstaff and setting up time tracking for your organization.
-
-## Table of Contents
-1. [Account Creation](#1-account-creation)
-2. [Desktop App Installation](#2-desktop-app-installation)
-3. [Account Sync](#3-account-sync)
-4. [Tracking & Reporting](#4-tracking--reporting)
-5. [Troubleshooting](#troubleshooting)
 
 ## 1. Account Creation
 
@@ -57,27 +48,5 @@ To view reports:
 
 ![Activity Reports](https://github.com/user-attachments/assets/d2a69d21-ea76-4a12-bc03-f88d9d1b26d8)
 
-## Troubleshooting
 
-Common issues and solutions:
-
-| Issue | Solution |
-|-------|----------|
-| App won't launch | Restart computer, reinstall app |
-| Screenshots not capturing | Check admin settings for screenshot permissions |
-| Time not tracking | Verify internet connection, check app permissions |
-
-For additional help:
-- [Hubstaff Support Center](https://support.hubstaff.com/)
-- Contact me on Discord: [YourUsername]
-
-## Best Practices
-
-✔ **Set working hours** in your profile  
-✔ **Organize projects** for better tracking  
-✔ **Review weekly reports** for productivity insights  
-✔ **Use the mobile app** for on-the-go tracking  
-
----
-
-📅 **Last Updated:** July 2025  
+If you have any trouble during installation, feel free to reach out to me at discord: @passion0805
