@@ -36,15 +36,10 @@ Supported platforms:
 
 ## 4. Tracking & Reporting
 
-Hubstaff automatically tracks:
-- Active time
-- Applications used
-- Websites visited
-- Periodic screenshots (configurable)
-
 To view reports:
 1. Go to **Reports** > **Activity**
 2. Select date range and user
+3. It will send screenshot zip file to your associated email.
 
 ![Activity Reports](https://github.com/user-attachments/assets/d2a69d21-ea76-4a12-bc03-f88d9d1b26d8)
 
