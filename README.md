@@ -46,4 +46,4 @@ To view reports:
 ![Activity Reports](https://github.com/user-attachments/assets/d2a69d21-ea76-4a12-bc03-f88d9d1b26d8)
 
 
-If you have any trouble during installation, feel free to reach out to me at discord: @passion0805
+If you have any trouble during installation, feel free to reach out to me at Tg: @passion0805
